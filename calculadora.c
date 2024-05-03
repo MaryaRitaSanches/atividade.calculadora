@@ -42,7 +42,7 @@ int main() {
             printf("Operação inválida.\n");
         }
         
-        printf("Deseja continuar (sim/nao)? ");
+        printf("Deseja continuar (s/n)? ");
         scanf(" %c", &continuar);
     }
     
